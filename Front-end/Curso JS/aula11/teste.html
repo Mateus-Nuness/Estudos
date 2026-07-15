@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>teste</title>
+</head>
+
+<body>
+    <h1>Sistema de Nacionalidade</h1>
+    <div>
+        País de origem: <input type="text" name="txtvel" id="txtvel">
+    </div>
+    <div>
+        <button type="button" value="Verificar" onclick="botaoBuscar()">Clique aqui!</button>
+    </div>
+    <div id="res">
+        <p>Resultado:</p>
+        <script>
+
+            function cidadania() {
+                var txtv = window.document.querySelector('input#txtvel')
+                var res = document.querySelector('div#res')
+                var vel = (txtv.value)
+                res.innerHTML = `Você veio do ${vel}.`
+                if (vel != 'Brasil') {
+                    res.innerHTML = `Você é gringo, seu pastel é $R50,00 conto.`
+                } else {
+                    res.innerHTML = `Caaaaalma Zé de Nelson, pra tu é 10.`
+                }
+            }
+            function botaoBuscar() {
+                cidadania()
+            }
+
+        </script>
+</body>
+
+</html>

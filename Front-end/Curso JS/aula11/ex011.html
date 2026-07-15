@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio</title>
+</head>
+
+<body>
+    <h1>Daqui Ou De lá?</h1>
+    País de orígem: <input type="text" name="pais" id="pais">
+    <input type="button" value="Veríficar" onclick="Pesquisar">
+    <div id="res">
+
+    </div>
+    <script>
+        function Pesquisar() {
+            var pais = document.getElementById('CT')
+            var res = document.querySelector('div#res')
+            var achou = (pais.value)
+            res.innerHTML = 'Seu país de orígem é ${achou}'
+        }
+    </script>
+
+</body>
+
+</html>
