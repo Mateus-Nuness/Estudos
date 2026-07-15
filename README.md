@@ -20,7 +20,7 @@ Exercícios práticos de interface e lógica client-side:
 ### 🚀 Projetos em Destaque
 
 #### 📱 [Projeto 1 Pokedex](./Projeto%201%20Pokedex)
-*   **Descrição:** Aplicação web interativa que consome dados sobre pokémons, focada em manipulação de APIs e exibição dinâmica de dados no frontend.
+*   **Descrição:** Aplicação web interativa que contém dados sobre pokémons, focada em manipulação de APIs e exibição dinâmica de dados no frontend.
 *   **Tecnologias:** HTML, CSS e JavaScript.
 
 #### 🃏 [Pegadinha Botão Andante](./Pegadinha_Botão_Andante)
