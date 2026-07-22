@@ -2,7 +2,7 @@
 
 Este repositório centraliza minha jornada de aprendizado em desenvolvimento de software, dividida entre estudos teóricos, exercícios práticos e projetos autorais. 
 
-Atualmente, meu foco principal está no desenvolvimento de soluções robustas para o **Backend utilizando Java**, além de consolidar conceitos essenciais de **Frontend** e lógica de programação.
+Atualmente, meu foco principal está no desenvolvimento de soluções robustas para o **Backend utilizando Java**, além de consolidar conceitos essenciais de **Frontend**.
 
 ---
 
