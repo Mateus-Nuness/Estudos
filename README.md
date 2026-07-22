@@ -10,7 +10,7 @@ Atualmente, meu foco principal está no desenvolvimento de soluções robustas p
 
 ### 🖥️ [Back-end](./Back-and)
 Pasta dedicada aos conceitos de desenvolvimento do lado do servidor:
-*   **Linguagem principal:** Java (Orientação a Objetos, sintaxe, estruturas condicionais e de repetição).
+*   **Linguagem principal:** Java.
 *   *Estudos futuros:* Arquitetura de APIs, frameworks (Spring Boot) e integração com bancos de dados relacionais (SQL).
 
 ### 🎨 [Front-end](./Front-end)
